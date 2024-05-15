@@ -1,16 +1,13 @@
-### Hi there 👋
+### boas vindas ao meu perfil 🐕‍🦺🐈
 
-<!--
-**mariana3rollo/mariana3rollo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é mariana vitoria lopes 
 
-Here are some ideas to get you started:
+- estou estudando na alura
+- estou me desenvolvendo na linguagem de javascript
+- ultilizo esse espaço para minha organizaçao e compartilhameno dos meu projeto desenvolvido 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### voce pode entrar em cotato comigo 📧
+
+00001095826888sp@al.educacao.sp.gov.br
+
+@mari_lopes555
