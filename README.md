@@ -2,7 +2,7 @@
 
 meu nome é mariana vitoria lopes 
 
-- estou estudando na alura
+- estou estudando na [alura](https://www.alura.com.br)
 - estou me desenvolvendo na linguagem de javascript
 - ultilizo esse espaço para minha organizaçao e compartilhameno dos meu projeto desenvolvido 
 
